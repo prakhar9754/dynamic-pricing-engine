@@ -25,3 +25,5 @@ Ecommerce Behavior Dataset (sampled)
 - Python
 - Pandas
 - Scikit-learn
+- joblib
+- fast api
