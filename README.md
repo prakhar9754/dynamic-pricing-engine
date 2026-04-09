@@ -52,6 +52,13 @@ Dynamic_Pricing_Engine/
 │   ├── 04_model_training.ipynb
 │   ├── 05_model_evaluation.ipynb
 │   ├── 06_price_recommendation_engine.ipynb
+|
+|── app/
+|   |── main.py
+|   |── scema.py
+|   |── model.py
+|
+
 ```
 
 ---
